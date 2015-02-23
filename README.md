@@ -1,7 +1,8 @@
 # Appium4Ruby_SetupScript
 
-Get started with writing Appium Automation code in Ruby
-Appium enables iOS and Android automation using Selenium WebDriver. The same WebDriver bindings can be used across web and mobile.
+Get started with writing Appium Automation code in Ruby.
+Appium enables iOS and Android automation using Selenium WebDriver. The same WebDriver bindings can be used across web and
+mobile.
                                ________________________________________________
                                APPIUM IS::
                                ================================================
